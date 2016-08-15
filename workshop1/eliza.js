@@ -40,6 +40,10 @@ var rules = {
     "What do you think about computers?",
     "What do you think machines have to do with your problem?",
   ],
+  "~*x zebra ~*y": [
+    "What is that?",
+    "Are you interested in animals?"
+    
   "~*x name ~*y": [
     "I am not interested in names",
   ],
