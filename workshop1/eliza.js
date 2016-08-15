@@ -43,8 +43,7 @@ var rules = {
   "~*x memes ~*y": [
     "What is that?",
     "Are you interested in memes?",
-  ]   
-    
+  ],   
   "~*x name ~*y": [
     "I am not interested in names",
   ],
