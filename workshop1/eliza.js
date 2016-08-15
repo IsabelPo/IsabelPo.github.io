@@ -40,9 +40,10 @@ var rules = {
     "What do you think about computers?",
     "What do you think machines have to do with your problem?",
   ],
-  "~*x memes ~*y": [
+  "~*x meme ~*y": [
     "What is that?",
     "Are you interested in memes?",
+    "I too am a meme lord",
   ],   
   "~*x name ~*y": [
     "I am not interested in names",
